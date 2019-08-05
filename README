@@ -1,0 +1,10 @@
+where drivers goes:
+
+export PATH=$PATH:/home/developer/Downloads
+
+
+
+to run:
+
+python3 webWhatsappVersion2.py 
+
